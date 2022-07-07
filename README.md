@@ -1,5 +1,6 @@
 ### Ola Mundo!
 
+<img src="https://github-readme-stats.vercel.app/api?username=x0nl&count_private=true&show_icons=true%22%3E>
 #web #fullstack #javascript #node #react
 <!--
 **x0nl/x0nl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
