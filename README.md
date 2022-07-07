@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=x0nl&count_private=true&show_icons=true" width="380px" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nivaldo&theme=tokyonight&layout=default&langs_count=4" width="380px" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=x0nl&layout=default" width="380px" />
 </div>
 
 ## 
