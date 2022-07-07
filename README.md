@@ -1,8 +1,11 @@
 ### Ola Mundo!
 
+  - Full Stack Web Development Student at <a href="https://www.driven.com.br/">Driven Education</a>
+
+
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=x0nl&count_private=true&show_icons=true" width="380px" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=x0nl&layout=default" width="380px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=x0nl&&include_all_commits=true&count_private=true&hide=contribs&show_icons=true&cache_seconds=27600" width="380px" />
 </div>
 
 ## 
