@@ -1,12 +1,8 @@
 ### Ola Mundo!
 
-<img src="https://github-readme-stats.vercel.app/api?username=x0nl&count_private=true&show_icons=true">
-
-</br>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nivaldo&theme=tokyonight&layout=default&langs_count=4" width="380px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=NivaldoFarias&theme=tokyonight&custom_title=Github Stats&include_all_commits=true&count_private=true&hide=contribs&show_icons=true&cache_seconds=27600" width="380px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=x0nl&count_private=true&show_icons=true" width="380px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=x0nl&theme=tokyonight&custom_title=Github Stats&include_all_commits=true&count_private=true&hide=contribs&show_icons=true&cache_seconds=27600" width="380px" />
 </div>
 
 ## 
