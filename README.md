@@ -5,7 +5,7 @@
 ## 
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=x0nl&&include_all_commits=true&count_private=true&hide=contribs&show_icons=true&cache_seconds=27600" width="380px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=x0nl&&include_all_commits=true&count_private=true&hide=contribs&show_icons=true&cache_seconds=27600&theme=radical" width="380px" />
 </div>
 
 ## 
