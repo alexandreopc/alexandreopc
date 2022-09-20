@@ -1,6 +1,6 @@
 ###  Hello World!
 
-  - Full Stack Web Development Student at <a href="https://www.driven.com.br/">Driven Education</a>
+  - Full Stack Web Developer
 
 ## 
 <br/>
